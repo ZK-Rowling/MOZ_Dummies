@@ -1,0 +1,36 @@
+Yesterday I was covering on how to swap for $MOZ from
+@Mozaic_Fi
+at http://app.mozaic.finance/buy. Today i will tell you how to swap at
+@CamelotDEX
+. It's easy. PART II - swapping at
+
+Slide 1
+
+MOZAIC FOR DUMMIES
+Swapping on Camelot
+
+1.Press connect your wallet button.
+2.Press trade button.
+3.Press swap button.
+4.Choose tokens for the swap (from & to).
+
+Slide 2
+
+1.Searchbar for tokens (insert Contract Adress or type MOZ).
+2.Choose MOZ token (for either buying or selling)
+
+Slide 3
+
+1.Choose the amount you want to swap from.
+2.Press the swap button.
+
+4
+1.Review your swap and press the swap button again.
+
+5
+MetaMask Wallet
+browser extension
+
+1.The amount you will pay for gas fee (you can choose the low gas option).
+2.The amount you spend for the swap + gas fee amount.
+3.Press confirm to proceed with the swap.
