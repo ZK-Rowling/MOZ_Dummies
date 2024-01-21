@@ -1,0 +1,26 @@
+Slide 1
+
+1.Appuyez sur le bouton Connecter votre portefeuille.
+2.Appuyez sur le bouton d'échange.
+3.Appuyez sur le bouton d'échange.
+4. Choisissez les jetons pour l'échange (de & vers).
+
+2
+
+    Barre de recherche de jetons (insérez l'adresse du contrat ou tapez MOZ).
+    Choisissez le jeton MOZ (pour acheter ou vendre)
+
+3
+
+    Choisissez le montant que vous souhaitez échanger.
+    2.Appuyez sur le bouton d'échange.
+
+4
+
+    Vérifiez votre échange et appuyez à nouveau sur le bouton d'échange.
+
+5
+Extension Metamask
+1.Le montant que vous paierez pour les frais de gaz (vous pouvez choisir l’option faible consommation de gaz).
+2. Le montant que vous dépensez pour le montant des frais d'échange + gaz.
+3.Appuyez sur confirmer pour procéder à l'échange.

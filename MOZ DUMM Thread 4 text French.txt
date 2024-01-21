@@ -1,0 +1,40 @@
+Dans la partie précédente, nous avons appris à ajouter des liquidités avec $MOZ. À présent, parlons DAO. Si vous voulez participer à la construction de @Mozaic_Fi et gagner des récompenses grâce au jeton de gouverance xMOZ, visitez la page http://app.mozaic.finance/xmoz Libérez le doiq qui est en vous  grâce au xMOZ ! PARTiE IV- Convertir du $MOZ en xMOZ
+
+1-
+Convertir du MOZ into xMOZ
+
+1. Appuyez sur le bouton Connect Wallet.
+2. Indiquez le montant de MOZ que vous souhaitez convertir en xMOZ.
+3. Appuyez sur le bouton Convertir.
+
+2-
+
+1. Cliquez sur le bouton Convert.
+
+3- 
+Extension de navigateur Metamask 
+
+1.Appuyez sur le bouton Confirm de votre portefeuille.
+
+Pour participer à la DAO (vote sur Snapshot), conservez simplement vos xMOZ dans votre portefeuille. Si vous lancez le processus de retrait, vous ne pourrez plus voter ni être éligible aux récompenses.
+
+
+4-
+Retrait de xMOZ vers MOZ
+
+1. Choisissez le montant de xMOZ que vous souhaitez retirer. 
+2. Choisissez le délai de rétractation. Sachez que seul un retrait de 45 jours se fait sans pénalité.
+3. Appuyez sur le bouton Withdraw.
+
+5-
+
+Extension MetaMask
+
+1. Cliquez sur le bouton de confirmation dans votre portefeuille.
+
+Pour participer à la DAO (vote sur Snapshot), gardez vos xMOZ dans votre portefeuille. Si vous lancez le processus de retrait, vous ne pouvez plus voter ni être éligible pour les récompenses.
+
+6-
+
+1. Ici, vous pouvez vérifier combien de xMOZ vous avez retiré, combien de MOZ vous obtiendrez et combien de temps cela prendra.
+2. Cliquez sur le bouton Annuler si vous souhaitez arrêter le processus de retrait (sans aucune pénalité).
