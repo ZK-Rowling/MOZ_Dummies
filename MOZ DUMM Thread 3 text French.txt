@@ -1,0 +1,42 @@
+Voilà, vous détenez des $MOZ de @Mozaic_Fi.
+Vous pouvez gagner des incitations en ajoutant des liquidités sur http://app.camelot.exchange . PARTIE III - Ajouter et retirer des liquidités.
+1
+
+Ajouter et retirer des liquidités sur Camelot
+
+1.Cliquez sur le bouton Connecter pour connecter votre portefeuille préféré.
+2.Cliquez sur le bouton Earn.
+3.Cliquez sur le bouton Pools.
+
+2
+
+1. Choisissez le pool V3.
+2.Tapez MOZ dans la barre de recherche du pool.
+3. Choisissez le pool MOZ-ETH v3.
+
+3-
+1.Appuyez sur le bouton Create position.
+
+4-
+1. Choisissez le pool de liquidité parmi les options prédéfinies ou définissez-le manuellement.
+2. Choisissez le montant que vous souhaitez ajouter.
+3. Cliquez sur le bouton Add liquidity.
+
+5-
+1.Cliquez sur Add liquidity.
+
+6-
+1. Cliquez sur Confirm dans votre portefeuille.
+
+7-
+1. Cliquez sur le bouton Earn.
+2. Cliquez sur Positions pour afficher vos positions.
+3. Appuyez sur Harvest si vous souhaitez récolter vos récompenses.
+4. Cliquez sur Unbind si vous souhaitez retirer des liquidités.
+
+8-
+1. Choisissez le pourcentage que vous souhaitez retirer de votre position.
+2. Appuyez sur le bouton Unbind pour vous retirer.
+
+9-
+1. Cliquez sur le bouton Confirm dans votre portefeuille.

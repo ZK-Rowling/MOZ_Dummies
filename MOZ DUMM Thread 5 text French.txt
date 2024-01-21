@@ -1,0 +1,64 @@
+Tweet
+
+Vous connaissez maintenant le jeton $MOZ de @Mozaic_Fi. Mais saviez-vous que Mozaic propose un service de yield farming de stablecoins sur @StargateFinance ? Voici un guide pour l'utiliser. PARTIE V- Hercules Vault
+
+Le coffre-fort Hercules
+
+Qu'est-ce que le Hercules Vault ?
+
+Il s'agit d'un service de yield farming de stablecoins, propulsée par IA. Voici comment déposer ou retirer des fonds.
+
+1-
+Dépôt dans le coffre Hercules
+
+1. Cliquez sur l'onglet Coffres-forts.
+2. Cliquez sur le bouton Connect Wallet
+3. Cliquez sur l'image Hercules Vault.
+
+2-
+1. Après avoir cliqué sur Connect Wallet, choisissez votre portefeuille.
+
+3-
+1. Après avoir cliqué sur la clause de non-responsabilité, une fenêtre contextuelle s'afficher. Lisez-la et cliquez sur le bouton I Understand.
+
+4-
+1. Cliquez sur le bouton Deposit.
+
+5-
+1. Cliquez sur le bouton De - Sélectionner une chaîne ou un jeton.
+
+6-
+1. Sélectionnez une chaîne à partir de laquelle vous souhaitez effectuer un dépôt (ici, BNB Smart Chain).
+2. Sélectionnez le jeton que vous souhaitez échanger contre le jeton mozLP (ici, USDT).
+
+7-
+1. Vérifiez votre échange et cliquez sur le bouton Deposit.
+2. Validez la transaction dans votre portefeuille.
+
+8-
+Retrait du coffre Hercules
+
+1. Cliquez sur l'onglet Vaults.
+2. Cliquez sur le bouton Connect Wallet.
+3. Cliquez sur l'image Hercules Vault.
+
+
+9-
+1. Après avoir cliqué sur Connect Wallet, sélectionnez votre portefeuille.
+
+10-
+1.Après avoir cliqué sur la clause de non-responsabilité, une fenêtre contextuelle s'affiche. Lisez-la et cliquez sur le bouton I Understand.
+
+11-
+1. Choisissez la chaîne sur laquelle vous souhaitez retirer vos mozLP.
+
+12-
+1. Choisissez la chaîne dont vous souhaitez vous retirer.
+2. Cliquez sur le jeton mozLP.
+
+13-
+1. Choisissez le montant que vous souhaitez retirer. 
+2. Cliquez sur le bouton Approve et confirmez l'autorisation dans votre portefeuille.
+
+14-
+1.Appuyez sur le bouton Withdraw et confirmez la transaction dans votre portefeuille.

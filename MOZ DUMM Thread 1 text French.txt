@@ -1,0 +1,73 @@
+Tweet : 
+
+
+  Si vous n'avez pas encore acheté de $MOZ, le token de @Mozaic_Fi,
+  et que vous ne savez pas trop comment être des nôtres, voici un guide simple.
+  PARTIE I - Swap sur https://app.mozaic.finance/buy
+
+
+
+Slide : Cover
+
+
+  "Je recommande chaudement ce livre, le top pour décrocher votre validation doiq."
+
+
+  MOZAIC pour les NULS
+
+À mettre entre toutes les mains !
+
+
+  
+  Apprenez les bases :  swap, ajout de liquidité, conversion de MOZ en xMOZ, retrait de tokens, et bien plus...
+
+
+
+Slide 1
+
+ 
+  Échange cross-chain sur app.mozaic.finance
+
+
+1. Sélectionnez l'onglet Buy
+2. Cliquez "Connect Wallet" et sélectionnez votre portefeuille.
+
+Slide 2
+
+
+  Échange cross-chain sur app.mozaic.finance
+
+
+1. Sélectionnez la chaîne et le jeton souhaités pour l'échange contre des MOZ.
+
+
+Slide 3
+
+1. Choisissez une chaîne parmi les 10 disponibles.
+
+Slide 4
+
+
+1. Choisissez la chaîne désirée (ici, BNB Smart Chain).
+2. Choisissez le token à échanger contre du MOZ (ici, BNB)
+
+Slide 5
+
+1. Indiquez le montant souhaité pour l’échange.
+2. La quantité de MOZ obtenus après l’échange.
+3. Frais de carburant et de bridge à payer pour l’échange + temps d'exécution estimé.
+4. Cliquez sur Review Bridge.
+
+Slide p.6
+
+1. Cliquez sur Start bridging.
+
+Slide p7
+
+
+Extension de navigateur portefeuille Metamask 
+
+
+	1. Les frais de carburant que vous payez.
+	2. La somme dépensée pour l’échange + frais de gaz.
+	3. Cliquez sur Confirm pour procéder à l’échange.
