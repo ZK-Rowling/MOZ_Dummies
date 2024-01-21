@@ -1,0 +1,39 @@
+Yesterday i was writing about stuff you can do with $MOZ ( adding liquidity ). Today we talk DAO. If you want to be a part of shaping @Mozaic_Fi
+  and earn future rewards you need to visit http://app.mozaic.finance/xmoz release your inner doiq and convert ! PART IV- Converting MOZ - xMOZ
+
+1-
+Converting MOZ into XMOZ
+
+1.Press the Connect Wallet button.
+2.Enter amount of MOZ you want to convert into xMOZ.
+3.Press the Convert button.
+
+2-
+
+1.Press the Convert button.
+
+3-
+MetaMask wallet
+browser extension
+
+1.Press the Confirm button in your wallet.
+
+For participation in DAO (voting on snapshot) just hold your XMOZ in your wallet. If you start withdrawing process you cannot vote or be eligible for rewards anymore.
+
+4-
+Withdrawing XMOZ to MOZ
+
+1.Choose the amount of XMOZ you want to withdraw. 
+2.Choose the withdrawal period of time. Bear in mind, that only 45 days withdrawal is without a penalty.
+3.Press Withdraw button.
+
+5-
+MetaMask wallet browser extension
+
+1.Press the Confirm button in your wallet.
+
+For participation in DAO (voting on snapshot) just hold your XMOZ in your wallet. If you start withdrawing process you cannot vote or be eligible for rewards anymore.
+
+6-
+1. Here you can check how much xMOZ you withdrew, how much MOZ will you get and how long will it take.
+2.Press the Cancel button if you wish to stop the withdrawing process (without any penalty).

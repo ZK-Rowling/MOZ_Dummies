@@ -1,0 +1,70 @@
+Tweet
+
+So you have heard about $MOZ from @Mozaic_Fi
+ by now. But did you know they have a working product in form of a Vault, which is farming Stablecoins on @StargateFinance
+. And here's my guide on how to use it. PART V- Hercules Vault
+
+Hercules Vault
+
+What is Hercules Vault?
+It is an automatic stablecoin yield farming strategy, powered by Al. And here's how you can deposit or withdraw your funds.
+
+1-
+Deposit into Hercules Vault
+
+1.Press the Vaults tab.
+2.Press the Connect Wallet button.
+3.Press the Hercules Vault Image.
+
+2-
+Deposit into Hercules Vault
+
+
+1.After pressing Connect Wallet, choose which Wallet you are using.
+
+3-
+1.After pressing the Vault Image Dislaimer will pop-up. Read it and press the I understand button.
+
+4-
+1.Press the Deposit button.
+
+5-
+1.Press the From - Select Chain or Token button.
+
+6-
+1.Select a chain from which you want to make a deposit (in this case BNB smart chain).
+2.Select the token which you want to swap for mozLP token (in this case USDT).
+
+7-
+
+1.Review your swap and press the Deposit button.
+2.Approve the transaction in your wallet.
+
+8-
+Withdraw from Hercules Vault
+
+1.Press the Vaults tab.
+2.Press the Connect Wallet button.
+3.Press the Hercules Vault Image.
+
+9-
+1.After pressing Connect Wallet, choose which Wallet you are using.
+
+10-
+1.After pressing the Vault Image Dislaimer will pop-up. Read it and press the I understand button.
+
+11-
+1.Choose from which Chain you want to withdraw your mozLP.
+
+12-
+1.Choose chain from which you want to withdraw.
+2.Press the mozLP token.
+
+13-
+1.Choose the amount you wish to withdraw. 2.Press the Approve button and confirm the Approval in your wallet.
+
+14-
+1.Press the Withdraw button and confirm the transaction in your wallet.
+
+
+

@@ -1,0 +1,58 @@
+So now that you have your $MOZ from
+@Mozaic_Fi
+. You can earn some % Incentives for adding liquidity at http://app.camelot.exchange . PART III - Add and Withdraw Liquidity
+
+1 -
+
+Add and Withdraw liquidity on Camelot 
+
+1.Press the Connect button to connect your prefered wallet.
+2.Press the Earn button.
+3.Press the Pools button.
+
+1.Appuyez sur le bouton Connecter pour connecter votre portefeuille préféré.
+2.Appuyez sur le bouton Earn.
+3.Appuyez sur le bouton Pools.
+
+
+
+2 - 
+1.Choose the V3 pool.
+2.Type MOZ in the pool searchbar.
+3.Choose the MOZ-ETH v3 pool.
+
+1. Choisissez le pool V3.
+2.Tapez MOZ dans la barre de recherche du pool.
+3. Choisissez le pool MOZ-ETH v3.
+
+
+3-
+1.Press Create position button.
+
+4-
+1.Choose liquidity range from among preset options or set manually.
+2.Choose how much you want to add.
+3.Press Add liquidity button.
+
+5-
+1.Press Add liquidity button.
+
+6-
+1.Press Confirm button in your wallet.
+
+7
+1.Press Earn button.
+2.Press Positions button to view your positions.
+3.Pending rewards, press Harvest if you want to redeem those.
+4.Press unbind if you want to withdraw liquidity.
+
+8-
+1.Choose the % amount you want to withdraw from your position.
+2. Press Unbind button to withdraw
+
+
+9-
+1.Press Confirm button in your wallet.
+
+
+
